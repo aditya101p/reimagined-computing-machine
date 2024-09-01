@@ -23,7 +23,7 @@ To get started with this Chat Application, follow these steps:
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/jyotideepjee1803/mern-stack-chat-app.git
+   git clone https://github.com/aditya101p/reimagined-computing-machine
 
 2. Install server dependencies :
 
@@ -67,8 +67,6 @@ To get started with this Chat Application, follow these steps:
 - **Socket.io**: A library for real-time, bidirectional communication.
 - **Cloudinary**: A cloud-based media management service for image upload and storage.
 
-## Contributing
+## Contributions
 Contributions to this project are welcome! Feel free to submit issues or pull requests.
-
-
     
