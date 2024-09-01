@@ -4,7 +4,7 @@
 ![ChatApp Screenshot](/demo/chat_page.png)
 ![ChatApp Screenshot](/demo/chats.png)
 
-This MERN (MongoDB, Express.js, React.js, Node.js) stack chat application is designed to provide real-time one-to-one messaging with a user-friendly UI similar to WhatsApp. Users can create accounts, set profile images, and engage in seamless, real-time conversations with other users. The application uses Socket.io for real-time messaging.
+Aditya
 
 ## Features
 
