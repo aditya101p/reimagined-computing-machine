@@ -1,12 +1,12 @@
-# MERN Stack Chat Application with Real-time One-to-One Messaging
+# ChatterBox: A Real-Time MERN Stack Chat Application
 
 ![ChatApp Screenshot](/demo/login.png)
 ![ChatApp Screenshot](/demo/chat_page.png)
 ![ChatApp Screenshot](/demo/chats.png)
 
-Aditya
+Developed by Aditya Akhouri
 
-## Features
+## Key Points
 
 - **One-to-One Real-time Chat**: Enjoy real-time messaging with other users, similar to WhatsApp.
 
@@ -14,7 +14,7 @@ Aditya
 
 - **Profile Image**: Set and display your profile image.
 
-- **WhatsApp-like UI**: The application is designed with a user-friendly interface inspired by WhatsApp.
+- **Secure Authentication**: Easily create an account and log in with enhanced security.
 
 ## Installation
 
@@ -69,11 +69,6 @@ To get started with this Chat Application, follow these steps:
 
 ## Contributing
 Contributions to this project are welcome! Feel free to submit issues or pull requests.
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-Happy Chatting! 🚀📱💬
 
 
     
